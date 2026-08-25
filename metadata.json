@@ -1,0 +1,6 @@
+{
+  "name": "CampusShare",
+  "description": "High density campus marketplace for students to exchange resources, peer services, and opportunities with student mail verification, Campus ID authentication, protected contact sharing, uploaded post management, and master admin database console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
